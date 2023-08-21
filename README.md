@@ -1,2 +1,1 @@
-# hello-world
-Ejercicio de aplicación del tema repositorios
+Ana Belén Bulla
